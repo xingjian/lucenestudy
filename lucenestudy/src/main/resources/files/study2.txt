@@ -1,0 +1,148 @@
+
+Home
+About 
+Projects
+People 
+Get Involved 
+Download
+Support Apache 
+Apache Logo
+The Apache Way
+Contribute
+ASF Sponsors
+OPEN.
+THE APACHE SOFTWARE FOUNDATION
+provides support for the Apache Community of open-source software projects, which provide software products for the public good.
+
+INNOVATION.
+THE APACHE PROJECTS ARE DEFINED
+by collaborative consensus based processes, an open, pragmatic software license and a desire to create high quality software that leads the way in its field.
+
+COMMUNITY.
+WE CONSIDER OURSELVES
+not simply a group of projects sharing a server, but rather a community of developers and users.
+
+APACHE PROJECTS
+The all-volunteer ASF develops, stewards, and incubates more than 350 Open Source projects and initiatives that cover a wide range of technologies. From Abdera to Zookeeper, if you are looking for a rewarding experience in Open Source and industry leading software, chances are you are going to find it here. Are you powered by Apache?
+
+FEATURED PROJECTS
+Apache Props Ant Library
+Apache River
+Apache Flex
+ Logo
+APACHE PROPS ANT LIBRARY
+The Apache Props Antlib is a library of supplementary handlers for Apache Ant properties resolution. The types provided are instances of org.apache.tools.ant.PropertyHelper.Delegate and can be invoked using the task provided in Ant 1.8.0.
+
+Learn More...
+LATEST NEWS
+Keep up with the ASF's news and announcements by subscribing to the Apache Announcements List, and following the Foundation Blog and @TheASF on Twitter.
+
+
+[ANNOUNCE] APACHE OFBIZ 13.07.02 RELEASED
+The Apache OFBiz community is pleased to announce the new release "Apache OFBiz 13.07.02".
+ 
+Apache OFBiz™ is an open source product for the automation of enterprise processes that includes...
+THE APACHE NEWS ROUND-UP: WEEK ENDING 22 MAY 2015
+>> this announcement is available online at http://s.apache.org/DhL
+ 
+It's been a great week at Apache! Here's what we've been up to: 
+ 
+ASF Governance –the ASF Board has appointed...
+[ANNOUNCE] APACHE HIVE 1.0.1 AND 1.1.1 RELEASED
+The Apache Hive team is proud to announce the the release of Apache
+ 
+Hive version ​1.0.1 and 1.1.1.
+ 
+​These two versions are based on Hive 1.0.0, and Hive...
+LATEST ACTIVITY
+@TheASF: The Apache News Round-up: week ending 22 May http://t.co/6EqGvVUAQ7 @ApacheAccumulo @DeltaSpikeTeam @ApacheDrill @ApacheHive @apachenifi
+@TheASF: Returning + new Officers: @brettporter @gstein @rgardler @rbowen @chrismattmann @jwcarman @jani_ASF McGrail & Russell http://t.co/maEcHgmuSg
+@TheASF: The Apache Software Foundation Announces #Apache #Drill 1.0 http://t.co/crO8PaxhIW #SQL #query #engine #Hadoop #NoSQL #Cloud @ApacheDrill
+APACHE BLOGS
+APACHE OFBIZ 13.07.02 RELEASED
+
+The Apache OFBiz community is pleased to announce the new release "Apache OFBiz 13.07.02". 
+
+Apache OFBiz™ is an open source product for the automation of enterprise processes that includes framework...
+
+THE APACHE NEWS ROUND-UP: WEEK ENDING 22 MAY 2015
+
+It's been a great week at Apache! Here's what we've been up to:
+
+ASF Governance –the ASF Board has appointed the following corporate officers: Chairman - Brett Porter; Vice Chairman - Greg Stein; President...
+
+THE APACHE SOFTWARE FOUNDATION ANNOUNCES APACHE™ DRILL™ 1.0
+
+Thousands of users adopt Open Source, enterprise-grade, schema-free SQL query engine for Apache Hadoop®, NoSQL, and Cloud storage.
+
+Forest Hill, MD --19 May 2015-- The Apache Software Foundation (ASF), the...
+APACHE PROJECT LIST
+BY CATEGORY
+Overview
+All Projects
+Attic
+Big Data
+Build Management
+Cloud
+Content
+Databases
+FTP
+Graphics
+HTTP
+HTTP-module
+Incubating
+JavaEE
+Labs
+Libraries
+Mail
+Mobile
+Network-client
+Network-server
+OSGi
+RegExp
+Retired
+Testing
+Virtual-machine
+Web-framework
+XML
+FAQ
+BY NAME
+HTTP Server
+A
+Abdera
+Accumulo
+ACE
+ActiveMQ
+Airavata
+Allura
+Ambari
+Ant
+Any23
+APR
+Archiva
+Aries
+Aurora
+Avro
+Axis
+B
+Bigtop
+Bloodhound
+BookKeeper
+Buildr
+BVal
+C
+Camel
+Cassandra
+Cayenne
+Celix
+Chemistry
+Chukwa
+Clerezza
+CloudStack
+Cocoon
+Commons
+Continuum
+Cordova
+CouchDB
+Creadur
+Crunch
